@@ -112,20 +112,5 @@ class GameScene: SKScene {
         }
     }
     
-//    func winScreen(){
-//
-//        if topLabel.text == [4] as? String{
-//
-//            print("enemy won")
-////            Go to win screen
-//
-//        }else if btmLabel.text == [4] as? String{
-//
-//            print("player won")
-////            Go to win screen
-//
-//        }
-//
-//    }
     
 }
